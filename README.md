@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Web3 & Fullstack Architecture**
 
-- 👨‍💻 You can view an intersection of a few projects I've worked on at my portfolio: **[Insert Your Live Portfolio URL Here]**
+- 👨‍💻 You can view an intersection of a few projects I've worked on at my portfolio: **devrexportfolio.vercel.app**
 
 - 📫 How to reach me: **timothypererat2004@gmail.com**
 
