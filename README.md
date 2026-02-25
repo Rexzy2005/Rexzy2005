@@ -3,14 +3,21 @@
 
 - 🌱 I’m currently learning **Advanced Web3 & Fullstack Architecture**
 
-- 👨‍💻 You can view an intersection of a few projects I've worked on at my portfolio: **http://devrexportfolio.vercel.app/**
+- 👨‍💻 You can view an intersection of a few projects I've worked on at my portfolio: **[Insert Your Live Portfolio URL Here]**
 
 - 📫 How to reach me: **timothypererat2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dev_rexzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_rexzy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pererat-timothy-b33a51375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pererat-timothy" height="30" width="40" /></a>
+  <a href="https://twitter.com/dev_rexzy" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.linkedin.com/in/pererat-timothy-b33a51375" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Rexzy2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
